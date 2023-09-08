@@ -123,7 +123,6 @@ License: [BSD](http://www.opensource.org/licenses/bsd-license.php)
 from markdown.extensions import Extension
 from markdown.blockprocessors import BlockProcessor
 from markdown.treeprocessors import Treeprocessor
-from markdown.util import etree
 import re
 
 
